@@ -55,5 +55,6 @@ Besides the code provided by the professors, we used the following sources:
 
 ## Contributors
 
+- [Simone Mascali](https://github.com/vmask25)
 - [Marco Sacchet](https://github.com/saccuz)
 - [Fabrizio Sulpizio](https://github.com/Xiusss)
